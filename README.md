@@ -9,7 +9,7 @@ Widgets
 
 ### Product Overview
 
-![alt text](https://media.giphy.com/media/ZCZ5xtQsknZCqUw7Z9/giphy.gif)  
+![alt text](https://media.giphy.com/media/W6G9JSvoqEw8v0cB6C/giphy.gif)  
 Features
 
 1. Image Gallery
