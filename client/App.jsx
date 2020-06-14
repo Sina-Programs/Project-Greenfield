@@ -12,7 +12,7 @@ const App = (props) => {
     props.setProductID(params.id);
   });
   return (
-    <div>
+    <div style={{ marginTop: '80px' }}>
       <ProductOverview />
       <RelatedProductsList />
       <OutfitList />

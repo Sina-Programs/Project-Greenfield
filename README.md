@@ -1,22 +1,40 @@
-# project-greenfield
+# Project-Greenfield
 
-Setup Instructions:
+Widgets
 
-## Install dependencies
+1. Product Overview
+2. Related Products
+3. Questions & Answers
+4. Reviews
 
-- terminal command: "npm install"
+### Product Overview
 
-## Compile Front-End Code
+![alt text](https://media.giphy.com/media/ZCZ5xtQsknZCqUw7Z9/giphy.gif)  
+Features
 
-- terminal command: "npm run build-dev"
+1. Image Gallery
+   - photo navigator
+   - maximize display functionality
+2. Product Info Card
+3. Dynamic Style Selector
+4. Dynamic Size-Quantity Selector
 
-## Start Server and open app in browser
+### Getting started
 
-- Start Server
-  - terminal command: "npm run start-dev"
-- Open Application
-  - (AFTER COMPILING CODE AND STARTING SERVER) Search in Browser URL "localhost:3000"
+```sh
+$ npm install
+```
 
-## Credits
+Compile Front-End Code
 
-Made with [createapp.dev](https://createapp.dev/)
+```sh
+$ npm run build-prod
+```
+
+Start Server
+
+```sh
+$ npm run start-dev
+```
+
+Open [localhost:3000](http://localhost:3000)
